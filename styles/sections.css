@@ -21,4 +21,15 @@
       #000000ed 100%
     );
   }
+
+  figcaption {
+    position: absolute;
+    bottom: 0;
+
+    padding: 17px;
+
+    h2 {
+      margin-top: 10px;
+    }
+  }
 }
